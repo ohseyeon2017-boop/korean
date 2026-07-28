@@ -1,0 +1,6 @@
+{
+  "name": "한빛 한글 샘 - 초등 한글 AI 튜터",
+  "description": "초등 한글 미해득 학생을 위한 음성·시각·따라쓰기 기반 초등 한글 AI 튜터 웹앱 (Gemini AI 피드백, 칭찬 스티커, 구글 시트 학습 기록 연동)",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
